@@ -1,13 +1,13 @@
 
 # Wall-Follower-Robot
-En este proyecto se diseño un Robot que fuera capaz de seguir una pared a una distancia que pueda ser previamente definida por el usuario y esquivar obstaculos. Los materiales usasdos para el diseño y creacion del proyecto se encuentra en la documetación que se devia entregar como parte del proyecto.
+En este proyecto se diseño un Robot que fuera capaz de seguir una pared a una distancia que pueda ser previamente definida por el usuario y esquivar obstaculos. Los materiales usasdos para el diseño y creacion del proyecto se encuentra en la documetación que se devia entregar como parte del proyecto. Hay que agregar que el robot tenia un sistema de luces UV para desinfectar el ambiente pero estas terminaron siendo decorativas debido a que las luces eran UVA y para la desinfección se suele usar UVC, era difícil conseguir en pandemia luces con una menor longitud de onda ademas del inconvenoente de trabajar con luces que puedan causar quemaduras en la piel.
 
 
 ## Esquematico
-![Alt text](docs/esquematico.png)
+<img align='center' src="docs/esquematico.png" width="500">
 
 ## PCB
-![Alt text](docs/placa.png)
+<img align='center' src="docs/placa.png" width="500">
 
 ## Aplicación
 Se diseñó una aplicación para hacer la ccomuniación conn el robot, en esta parte lo unico que se tuvo que programar el modulo USART. El apk de la aplicación se encuentra en la documentación.
