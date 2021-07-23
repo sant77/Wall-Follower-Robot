@@ -10,7 +10,7 @@ En este proyecto se diseño un Robot que fuera capaz de seguir una pared a una d
 ![Alt text](docs/placa.png)
 
 ## Aplicación
-Se diseñó una aplicación para hacer la ccomuniación conn el robot, en esta parte lo unico que se tuvo que programar el modulo USART.
+Se diseñó una aplicación para hacer la ccomuniación conn el robot, en esta parte lo unico que se tuvo que programar el modulo USART. El apk de la aplicación se encuentra en la documentación.
 
 ## Conclusion y mejoras a futuro
 
