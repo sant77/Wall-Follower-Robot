@@ -12,10 +12,10 @@ En este proyecto se diseño un Robot que fuera capaz de seguir una pared a una d
 ## Aplicación
 Se diseñó una aplicación para hacer la ccomuniación conn el robot, en esta parte lo unico que se tuvo que programar el modulo USART. El apk de la aplicación se encuentra en la documentación.
 
-## Conclusion y mejoras a futuro
+## Conclusión y mejoras a futuro
 
 
-El robot tuvo exito en lograr seguir una pared pero poco exito a la hora de esquivar obstaculos ademas de que el seguimiento de pared a veces el sistema de control no era capaz de correguir el rumbo del robot cuanddo tomaba angulos muy pronunciados con respecto a la pared, esto se debe a que la disposición de los sensores no fue la mejor. Para mejoras a futuro se puede probar colocando dos sensores en los laterales. Además es posible que los sensosres ultra sonicos tengan mejores resultados que los sensores Chart.
+El robot tuvo éxito en lograr seguir una pared pero poco éxito a la hora de esquivar obstaculos además de que el seguimiento de pared a veces el sistema de control no era capaz de correguir el rumbo del robot cuanddo tomaba angulos muy pronunciados con respecto a la pared, esto se debe a que la disposición de los sensores no fue la mejor. Para mejoras a futuro se puede probar colocando dos sensores en los laterales. Además es posible que los sensosres ultra sonicos tengan mejores resultados que los sensores Chart.
 
 ## Links
  - Link para descargar el esquematico y  PCB https://oshwlab.com/Santiago77/robot-seguir-de-pared
@@ -23,4 +23,4 @@ El robot tuvo exito en lograr seguir una pared pero poco exito a la hora de esqu
 
 
 ## Agradecimientos
-Este proyecto no fue hecho por solo una persona......
+Este proyecto no fue hecho por solo una persona...... 
