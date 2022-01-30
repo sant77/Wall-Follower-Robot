@@ -23,4 +23,4 @@ El robot tuvo éxito en lograr seguir una pared pero poco éxito a la hora de es
 
 
 ## Agradecimientos
-Este proyecto no fue hecho por solo una persona...... 
+Este proyecto no fue hecho por solo una persona, agradecimientos a Junjose por el apoyo en la programación de los modulos
