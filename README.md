@@ -1,6 +1,6 @@
 
 # Wall-Follower-Robot
-En este proyecto se diseñó un Robot que fuera capaz de seguir una pared y esquivar obstáculos. Además, el robot se configuró para ser controlado por una aplicación móvil, donde el usuario, encendía o apagaba el robot y definía una distancia de seguimiento.
+En este proyecto se diseñó un Robot que fuera capaz de seguir una pared y esquivar obstáculos. Además, el robot se configuró para ser controlado por una aplicación móvil, donde el usuario podía encender o apagar el robot y también, definir una distancia de seguimiento a la pared.
 Los materiales usados para el diseño y creación del proyecto se encuentran en la documentación. Hay que agregar que el robot tenía pensado llevar un sistema de luces UV para desinfectar el ambiente. Sin embargo, estas terminaron siendo decorativas debido a que se usaron luces UVA y para la desinfección se suele usar UVC. Dado que el proyecto se realizó en pandemia, era difícil conseguir luces con una menor longitud de onda. Además, se utilizaron luces UVA para evitar posibles daños como quemaduras en la piel.
 
 ## Esquemático
@@ -21,4 +21,4 @@ Para mejoras a futuro se puede probar colocando dos sensores en los laterales, m
  - Link del video donde se basó el diseño del controlador Fuzzy https://www.youtube.com/watch?v=KDdm_DOEzpI
 
 ## Agradecimientos
-Este proyecto no fue hecho por solo una persona, agradecimientos a Juan José López por el apoyo en la programación de los modulos y diseño de la aplicación. También a Jorge Luis Leiton por la ayuda en el diseño esquemático y PCB.
+Este proyecto no fue hecho por solo una persona, agradecimientos a Juan José López por el apoyo en la programación de los modulos y diseño de la aplicación móvil. Por último, a Jorge Luis Leiton por la ayuda en el diseño esquemático y PCB del robot.
