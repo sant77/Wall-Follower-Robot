@@ -1,7 +1,7 @@
 
 # Wall-Follower-Robot
-En este proyecto se diseñó un Robot que fuera capaz de seguir una pared y esquivar obstáculos. Además, el robot se configuró para ser controlado por una aplicación móvil, donde el usuario podía encender o apagar el robot y también, definir una distancia de seguimiento a la pared.
-Los materiales usados para el diseño y creación del proyecto se encuentran en la documentación. Hay que agregar que el robot tenía pensado llevar un sistema de luces UV para desinfectar el ambiente. Sin embargo, estas terminaron siendo decorativas debido a que se usaron luces UVA y para la desinfección se suele usar UVC. Dado que el proyecto se realizó en pandemia, era difícil conseguir luces con una menor longitud de onda. Además, se utilizaron luces UVA para evitar posibles daños como quemaduras en la piel.
+En este proyecto se diseñó un Robot capaz de seguir una pared y esquivar un obstáculo. Además, el robot se configuró para ser controlado por una aplicación móvil, donde el usuario podía encender o apagar el robot y también, definir una distancia de seguimiento a la pared.
+Los materiales usados para el diseño y creación del proyecto se encuentran en la documentación. Hay que agregar que el robot tenía pensado llevar un sistema de luces UV para desinfectar el ambiente. Sin embargo, estas terminaron siendo decorativas debido a que se usaron luces UVA y para la desinfección se suele usar UVC. Dado que el proyecto se realizó en pandemia, era difícil conseguir luces con una menor longitud de onda. Además, era mas seguros para su uso, debido al daño que causa en la piel el UVC
 
 ## Esquemático
 <img align='center' src="docs/esquematico.png" width="500">
